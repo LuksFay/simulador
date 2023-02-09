@@ -1,3 +1,5 @@
+<!---
+
 ![Rigs of Rods](doc/images/RoR_Logo_full.png?raw=true)
 
 [![Join Discord](https://img.shields.io/discord/136544456244461568.svg?style=flat-square)](https://discord.gg/rigsofrods) ![downloads](https://flat.badgen.net/github/assets-dl/RigsOfRods/rigs-of-rods)
@@ -135,3 +137,6 @@ along with Rigs of Rods. If not, see <http://www.gnu.org/licenses/>.
 * For the full license text see [COPYING](COPYING)
 * For involved authors see [AUTHORS.md](AUTHORS.md)
 * For licenses of used libraries see [DEPENDENCIES.md](DEPENDENCIES.md)
+
+
+-->
